@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kaiser-hoque2
-- 👀 I’m interested in ...php laravel
+- 👋 Hi, I’m Ahtesanul Hoque Kasier
+- 👀 I’m interested in ...php laravel and vue js
 - 🌱 I’m currently learning ...php laravel at ostad batch 2
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
